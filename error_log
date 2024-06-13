@@ -1,0 +1,301 @@
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:40:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:41:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 08:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 09:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 09:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 09:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 09:01:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 09:16:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 09:16:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/index.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 09:32:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 11:05:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Resource temporarily unavailable in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 11:05:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Resource temporarily unavailable in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 12:13:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 12:13:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 12:40:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
+[30-Mar-2024 13:11:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home3/agnjobba/public_html/includes/db_conn.php:8
+Stack trace:
+#0 /home3/agnjobba/public_html/includes/db_conn.php(8): mysqli_connect()
+#1 /home3/agnjobba/public_html/includes/header.php(3): include_once('/home3/agnjobba...')
+#2 /home3/agnjobba/public_html/ApplyForJob.php(2): include('/home3/agnjobba...')
+#3 {main}
+  thrown in /home3/agnjobba/public_html/includes/db_conn.php on line 8
